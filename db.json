@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Julio Harris",
+      "id": 3
+    },
+    {
+      "name": "Samantha Kuvalis",
+      "id": 4
+    },
+    {
+      "name": "Dorothy Quigley",
+      "id": 7
+    },
+    {
+      "name": "Leonard Price II",
+      "id": 8
+    },
+    {
+      "name": "Richard Medhurst",
+      "id": 9
+    },
+    {
+      "name": "Ernestine Schmidt III",
+      "id": 10
+    }
+  ],
+  "albums": [
+    {
+      "id": 1,
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Fantastic Metal Shoes",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "Oriental Plastic Keyboard",
+      "id": 3
+    },
+    {
+      "userId": 10,
+      "title": "Ergonomic Fresh Table",
+      "id": 4
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7880921378193408",
+      "id": 2
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2928684172312576",
+      "id": 3
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5010973605756928",
+      "id": 4
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=974906653147136",
+      "id": 5
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7246555253833728",
+      "id": 6
+    }
+  ]
+}
